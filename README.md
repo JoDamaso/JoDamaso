@@ -1,6 +1,6 @@
-<h1 align="center">
-Welcome to my Github page! 👋
-</h1>
+
+<img src="https://raw.githubusercontent.com/JoDamaso/JoDamaso/main/header.png">
+
 <h3 align="center">
 I have recently made the life change into tech and I couldn't be more excited for what's to come!
 </br>
