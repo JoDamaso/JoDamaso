@@ -1,5 +1,5 @@
 ## Hey 👋, I'm John Damaso  
----
+
 ### Welcome to my Github page!  
 I took a step and pursued the tech world. I graduated from University of Texas at Austin - Full Stack Web Development Boot Camp. My emphasis on coding consists of the MERN stack, but I do plan on learning more languages.  
   
@@ -73,6 +73,9 @@ I took a step and pursued the tech world. I graduated from University of Texas a
 </a>
 <a href="https://github.com/JoDamaso" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="mailto: darryldamaso@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-white?&style=for-the-badge&logo=gmail&logoColor=red alt=email style="margin-bottom: 5px;" />
 </a>  
 
 <br/>  
