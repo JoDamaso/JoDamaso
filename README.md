@@ -1,8 +1,7 @@
-## Hey 👋, I'm John Damaso  
+<img src="header.png">
 
-### Welcome to my Github page!  
 I took a step and pursued the tech world. I graduated from University of Texas at Austin - Full Stack Web Development Boot Camp. My emphasis on coding consists of the MERN stack, but I do plan on learning more languages.  
-  
+
 
 <br/>  
 
